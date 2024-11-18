@@ -1,0 +1,10 @@
+
+	Kendall's rank correlation tau
+
+data:  cleaned_data$world_rank and cleaned_data$quality_of_education
+z = 31.949, p-value < 2.2e-16
+alternative hypothesis: true tau is not equal to 0
+sample estimates:
+      tau 
+0.4867496 
+
